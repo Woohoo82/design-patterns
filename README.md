@@ -1,15 +1,13 @@
 # design-patterns
 Container for some common design patterns
 
+Realized:
+
 * Finite State Machine
   * statemachine.h
   * statemachine.cpp
   * entity.h
   * entity.cpp
-* Event Handler (Observer)
-  * observer.cpp
-* Stack
-* Trigger
 * Fuzzy logic - it is my investigation
   * fuzzy.h
 * Other files for testing them
@@ -17,3 +15,9 @@ Container for some common design patterns
   * dog.h - test file of State Machine
   * dog.cpp - test file of State Machine
   * main.cpp - test file of State Machine
+
+Missing:
+
+* Event Handler (Observer)
+* Stack
+* Trigger

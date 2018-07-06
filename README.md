@@ -2,19 +2,18 @@
 Container for some common design patterns
 
 * Finite State Machine
-** statemachine.h
-** statemachine.cpp
-** entity.h
-** entity.cpp
+  * statemachine.h
+  * statemachine.cpp
+  * entity.h
+  * entity.cpp
 * Event Handler (Observer)
-** observer.cpp
+  * observer.cpp
 * Stack
 * Trigger
 * Fuzzy logic - it is my investigation
-** fuzzy.h
+  * fuzzy.h
 * Other files for testing them
-** mk.sh - make script for testing State Machine
-** dog.h - test file of State Machine
-** dog.cpp - test file of State Machine
-** main.cpp - test file of State Machine
-
+  * mk.sh - make script for testing State Machine
+  * dog.h - test file of State Machine
+  * dog.cpp - test file of State Machine
+  * main.cpp - test file of State Machine
